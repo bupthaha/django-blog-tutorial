@@ -1,3 +1,4 @@
 fabfile.py
 db.sqlite3
 fabfile.pyc
+/blogproject/settings.py
